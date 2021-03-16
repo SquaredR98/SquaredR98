@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... yourfriendraviranjan@gmail.com
-<!-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
--->
+</br>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=squaredr98)](https://github.com/anuraghazra/github-readme-stats)
