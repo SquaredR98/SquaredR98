@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
+![Ravi Ranjan](https://raw.githubusercontent.com/SquaredR98/SquaredR98/main/background.png)
 - 🔭 I’m currently working on ... Meme Sentiment Analysis
 - 🌱 I’m currently learning ... Deep Learning, Tensorflow, Java, React(Front to Back)
 <!-- 👯 I’m looking to collaborate on ... 
