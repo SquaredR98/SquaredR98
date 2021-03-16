@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... yourfriendraviranjan@gmail.com
 </br>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=squaredr98)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=squaredr98)](https://github.com/squaredr98/github-readme-stats)
