@@ -11,7 +11,7 @@ A passionate Software Engineer with a keen interest in JavaScript based modern w
 * 🧠  I'm learning Nest JS, Next JS, DSA
 
 <a href="https://www.twitter.com/rranjan_ravi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rranjan_ravi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/SquaredR7284?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/SquaredR98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SquaredR98?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
