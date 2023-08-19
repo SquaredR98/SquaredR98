@@ -7,7 +7,7 @@ Full Stack Developer
 A passionate Software Engineer with a keen interest in JavaScript based modern web technologies like NodeJS, React, Angular. Seek new challenges and always try to think out of the box while looking for creative solutions to a given problem. Self-starter with good interpersonal and communication skills. Can work as an individual contributor as well as along with a team.
 
 * 🌍  I'm based in Panipat, Haryana
-* ✉️  You can contact me at [developer.ravi.ranjan.7284@gmail.com](mailto:developer.ravi.ranjan.7284@gmail.com)
+* ✉️  You can contact me at [mail@ravi-ranjan.in](mailto:mail@ravi-ranjan.in)
 * 🧠  I'm learning Nest JS, Next JS, DSA
 
 <a href="https://www.twitter.com/rranjan_ravi" target="_blank" rel="noreferrer"><img
