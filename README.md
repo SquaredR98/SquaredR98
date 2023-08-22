@@ -10,7 +10,7 @@ A passionate Software Engineer with a keen interest in JavaScript based modern w
 * ✉️  You can contact me at [mail@ravi-ranjan.in](mailto:mail@ravi-ranjan.in)
 * 🧠  I'm learning Nest JS, Next JS, DSA
 
-<a href="https://www.twitter.com/rranjan_ravi" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/SquaredR7284" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SquaredR7284?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/SquaredR98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SquaredR98?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
