@@ -1,33 +1,20 @@
-<div style="position: relative; width: 100%; height: 100vh; display: flex; align-items: center;">
-<img style="position: absolute; left: 0; right: 0;" src="./background.png" />
-
-<div style="width: 50%; margin-left: 1rem;">
-
-# About Me
+About Me
+============================
 
 A passionate Software Engineer with a keen interest in JavaScript based modern web technologies like NodeJS, React, Angular. Seek new challenges and always try to think out of the box while looking for creative solutions to a given problem. Self-starter with good interpersonal and communication skills. Can work as an individual contributor as well as along with a team.
 
-- 🌍  I'm based in Panipat, Haryana
-- ✉️  You can contact me at [mail@ravi-ranjan.in](mailto:mail@ravi-ranjan.in)
-- 🧠  I'm learning Nest JS, Next JS, DSA
+* 🌍  I'm based in Panipat, Haryana
+* ✉️  You can contact me at [mail@ravi-ranjan.in](mailto:mail@ravi-ranjan.in)
+* 🧠  I'm learning Nest JS, Next JS, DSA
 
 <a href="https://www.twitter.com/SquaredR7284" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SquaredR7284?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-<a href="https://www.github.com/SquaredR98" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/SquaredR98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SquaredR98?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-</div>
-</div>
 
 ### Skills
 
-<div style="display: flex; flex-wrap: wrap;">
-
-<div>
-
 #### Core
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -35,23 +22,14 @@ src="https://img.shields.io/github/followers/SquaredR98?logo=github&style=for-th
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-
-</div>
   
-<div>
-
 #### Front End
-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-
-</div>
-
-<div>
   
 #### Backend
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -63,18 +41,12 @@ src="https://img.shields.io/github/followers/SquaredR98?logo=github&style=for-th
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-
-</div>
-
-<div>
   
 #### Softwares
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-</div>
 
-</div>
 
 ### Socials
 
@@ -96,4 +68,4 @@ src="https://img.shields.io/github/followers/SquaredR98?logo=github&style=for-th
 </tr>
 </table>
 
-[![Ravi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SquaredR98)](https://github.com/SquaredR98/github-readme-activity-graph)
+[![Ravi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SquaredR98&theme=rogue)](https://github.com/SquaredR98/github-readme-activity-graph)
