@@ -1,8 +1,5 @@
-Hi 👋 My name is Ravi Ranjan
+About Me
 ============================
-
-Full Stack Developer
---------------------
 
 A passionate Software Engineer with a keen interest in JavaScript based modern web technologies like NodeJS, React, Angular. Seek new challenges and always try to think out of the box while looking for creative solutions to a given problem. Self-starter with good interpersonal and communication skills. Can work as an individual contributor as well as along with a team.
 
