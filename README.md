@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravi Ranjan
 
-🎯 A passionate **Full-Stack Developer** with 3+ years of experience building scalable web applications, SaaS platforms, and custom dashboards.  
+🎯 A passionate **Full-Stack Developer** with 4+ years of experience building scalable web applications, SaaS platforms, and custom dashboards.  
 💼 Currently working at **Antino Labs** as a **Senior Software Developer**.  
 🛠️ I specialize in **React**, **Next.js**, **Node.js**, **NestJS**, and **PostgreSQL**, with a strong focus on performance optimization and clean architecture.
 
