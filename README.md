@@ -123,8 +123,12 @@ const ravi = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SquaredR98&show_icons=true&theme=react&bg_color=0F172A&title_color=06B6D4&text_color=A1A1AA&icon_color=2563EB&border_color=1E293B&hide_border=false&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SquaredR98&layout=compact&theme=react&bg_color=0F172A&title_color=06B6D4&text_color=A1A1AA&border_color=1E293B&hide_border=false&langs_count=8" height="180"/>
+<a href="https://github.com/SquaredR98">
+<img src="https://github-stats-extended.vercel.app/api?username=SquaredR98&show_icons=true&theme=react&bg_color=0F172A&title_color=06B6D4&text_color=A1A1AA&icon_color=2563EB&border_color=1E293B&hide_border=false&count_private=true" width="49%"/>
+</a>
+<a href="https://github.com/SquaredR98">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SquaredR98&layout=compact&theme=react&bg_color=0F172A&title_color=06B6D4&text_color=A1A1AA&border_color=1E293B&hide_border=false&langs_count=8" width="49%"/>
+</a>
 
 </div>
 
@@ -132,7 +136,9 @@ const ravi = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SquaredR98&theme=react&background=0F172A&border=1E293B&stroke=1E293B&ring=06B6D4&fire=A855F7&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=06B6D4&sideLabels=2563EB&dates=A1A1AA)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=SquaredR98&theme=react&background=0F172A&border=1E293B&stroke=1E293B&ring=06B6D4&fire=A855F7&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=06B6D4&sideLabels=2563EB&dates=A1A1AA" width="100%"/>
+</a>
 
 </div>
 
@@ -140,7 +146,7 @@ const ravi = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SquaredR98&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=SquaredR98&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -162,10 +168,10 @@ const ravi = {
 <div align="center">
 
 <a href="https://github.com/SquaredR98/fieldcraft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SquaredR98&repo=fieldcraft&theme=react&bg_color=0F172A&title_color=06B6D4&icon_color=2563EB&text_color=A1A1AA&border_color=1E293B" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=SquaredR98&repo=fieldcraft&theme=react&bg_color=0F172A&title_color=06B6D4&icon_color=2563EB&text_color=A1A1AA&border_color=1E293B" width="49%"/>
 </a>
 <a href="https://github.com/SquaredR98/paykit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SquaredR98&repo=paykit&theme=react&bg_color=0F172A&title_color=06B6D4&icon_color=2563EB&text_color=A1A1AA&border_color=1E293B" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=SquaredR98&repo=paykit&theme=react&bg_color=0F172A&title_color=06B6D4&icon_color=2563EB&text_color=A1A1AA&border_color=1E293B" width="49%"/>
 </a>
 
 </div>
