@@ -234,7 +234,13 @@ const ravi = {
 
 </div>
 
----
+<!--
+  SPOTIFY SETUP INSTRUCTIONS
+  1. Go to: https://spotify-github-profile.kittinanx.com
+  2. Log in with your Spotify account
+  3. Copy your unique URL
+  4. Uncomment the section below and replace the URL
+  5. Alternative: https://github.com/novatorem/novatorem (Vercel-based)
 
 ## Spotify — What I'm Vibing To
 
@@ -242,24 +248,8 @@ const ravi = {
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=06b6d4&bar_color_cover=true)](https://github.com/kittinanx/spotify-github-profile)
 
-<!--
-  ╔══════════════════════════════════════════════════════╗
-  ║  🎵 SPOTIFY SETUP INSTRUCTIONS                       ║
-  ╠══════════════════════════════════════════════════════╣
-  ║                                                      ║
-  ║  1. Go to: https://spotify-github-profile.kittinanx.com  ║
-  ║  2. Log in with your Spotify account                 ║
-  ║  3. Copy your unique URL                             ║
-  ║  4. Replace the URL above with your personal one     ║
-  ║  5. Replace YOUR_SPOTIFY_USER_ID with your ID        ║
-  ║                                                      ║
-  ║  Alternative: https://github.com/novatorem/novatorem ║
-  ║  (Vercel-based Spotify widget)                       ║
-  ║                                                      ║
-  ╚══════════════════════════════════════════════════════╝
--->
-
 </div>
+-->
 
 ---
 
