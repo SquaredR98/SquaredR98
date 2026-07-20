@@ -29,7 +29,7 @@ const ravi = {
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/5%2B-Years%20Experience-06B6D4?style=for-the-badge&labelColor=0F172A"/> | <img src="https://img.shields.io/badge/16%2B-Projects%20Shipped-2563EB?style=for-the-badge&labelColor=0F172A"/> | <img src="https://img.shields.io/badge/112-Public%20Repos-A855F7?style=for-the-badge&labelColor=0F172A"/> | <img src="https://img.shields.io/badge/50--80%25-Effort%20Reduced-10B981?style=for-the-badge&labelColor=0F172A"/> |
+| <img src="https://img.shields.io/badge/5%2B-Years%20Experience-06B6D4?style=for-the-badge&labelColor=1E293B"/> | <img src="https://img.shields.io/badge/16%2B-Projects%20Shipped-2563EB?style=for-the-badge&labelColor=1E293B"/> | <img src="https://img.shields.io/badge/112-Public%20Repos-A855F7?style=for-the-badge&labelColor=1E293B"/> | <img src="https://img.shields.io/badge/50--80%25-Effort%20Reduced-10B981?style=for-the-badge&labelColor=1E293B"/> |
 |:---:|:---:|:---:|:---:|
 
 </div>
@@ -69,10 +69,10 @@ const ravi = {
 <br/>
 
 ![React](https://img.shields.io/badge/React-06B6D4?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0F172A)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -84,9 +84,9 @@ const ravi = {
 <summary><b>Backend — Where logic meets scale</b></summary>
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1E293B?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-06B6D4?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -97,7 +97,7 @@ const ravi = {
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
@@ -109,10 +109,10 @@ const ravi = {
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1E293B?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </details>
@@ -267,11 +267,11 @@ const ravi = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/ravi--ranjan.in-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ravi-ranjan.in)
+[![Portfolio](https://img.shields.io/badge/ravi--ranjan.in-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ravi-ranjan.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviranjan98)
-[![Twitter](https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ravi_ranjan_26)
+[![Twitter](https://img.shields.io/badge/Twitter-1E293B?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ravi_ranjan_26)
 [![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@ravi-ranjan.in)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SquaredR98)
+[![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SquaredR98)
 
 </div>
 
